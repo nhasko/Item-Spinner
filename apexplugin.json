@@ -1,39 +1,42 @@
 {
   "name": "Item Spinner Plugin",
   "version": "1.0",
-  "description": "APEX-Month-Year-Picker Item Plugin is
-  designed to allow user input for only a month and year when
-  only that input is required. Clicking on the year, allows the user
-   to jump ahead or back 12 years at a time. Clicking anywhere on the page,
-   except on the month picker menu itself, will cause the month picker to hide.
-   The Month Picker has lots of options for date validation, setting the start year,
-   using an icon button, input masking, internationalization, localization and more.
+  "description": "
+  Item Spinner is item based on JQuery UI widget spinner integrated with mousewheel features. 
+  It's allow you to enter value, choose value with click on arrows or choose your value with mousewhell functionality. 
+  You can choose 4 different items type
+
+    1. Standard - standard number item
+    2. Decimal - with decimal numbers
+    3. Time - Hours spinner
+    4. Currency
+  
    The Plugin is supported for Interactive Grid too",
-  "keywords": ["javascript", "jquery-ui", "Item","Month-picker", "Plugin"],
-  "homepage": "https://github.com/allipierre/APEX-Month-Year-Picker",
+  "keywords": ["javascript", "jquery-ui", "Item","Spinner", "Plugin"],
+  "homepage": "https://github.com/nhasko/Item-Spinner",
   "bugs": {
-    "url": "https://github.com/allipierre/APEX-Month-Year-Picker/issues",
-    "email": "allipierre@outlook.com"
+    "url": "https://github.com/nhasko/Item-Spinner/issues",
+    "email": "nhasko@gmail.com"
   },
   "license": "MIT",
   "author": {
-    "name": "Alli Pierre Yotti",
-    "email": "allipierre@outlook.com",
-    "url": "https://apex.oracle.com/pls/apex/f?p=1373:1",
-    "twitter": "pierre_yotti"
+    "name": "Nihad Haskovic",
+    "email": "nhasko@gmail.com",
+    "url": "https://nhasko.blogspot.com",
+    "twitter": "Niho__"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/allipierre/APEX-Month-Year-Picker"
+    "url": "https://github.com/nhasko/Item-Spinner"
   },
   "oracle": {
     "versions": ["11.2.0.1", "12.1.0.1", "12.2.0.1"],
     "apex": {
-      "versions": ["5.1.4"],
+      "versions": ["18.1"],
       "plugin": {
-        "internalName": "YOTTI.MONTH.YEAR.PLUGIN",
+        "internalName": "DE.BLOGSPOT.NHASKO.SPINNER",
         "type": "item",
-        "demo": "https://apex.oracle.com/pls/apex/f?p=123868:92",
+        "demo": "https://apex.oracle.com/pls/apex/f?p=85112:3",
         "previewImage": "https://raw.githubusercontent.com/allipierre/APEX-Month-Year-Picker/master/month_year.png"
       }
     }
