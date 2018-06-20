@@ -2,9 +2,9 @@
 
 Item Spinner is item based on JQuery UI widget spinner integrated with mousewheel features. its allow you to enter value, choose value with click on arrows or choose your value with mousewhell functionality. You can choose 4 different items type
 
-1. Standard, standard number item
-2. Decimal, with decimal numbers
-3. Time, Hours spinner
+1. Standard - standard number item
+2. Decimal - with decimal numbers
+3. Time - Hours spinner
 4. Currency
 
 # How to Use
