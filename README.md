@@ -5,7 +5,7 @@ Item Spinner is item based on JQuery UI widget spinner integrated with mousewhee
 1. Standard, standard number item
 2. Decimal, with decimal numbers
 3. Time, Houres spinner
-4. Currency,
+4. Currency
 
 # How to Use
 
