@@ -43,3 +43,4 @@ Every item type has his own options
 
 # Preview
 
+![alt text](https://github.com/nhasko/Item-Spinner/blob/master/preview.PNG)
