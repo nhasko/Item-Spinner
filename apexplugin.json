@@ -25,7 +25,7 @@
   "oracle": {
     "versions": ["11.2.0.1", "12.1.0.1", "12.2.0.1"],
     "apex" : {
-      "versions" : ["18.1.0"],
+      "versions" : ["5.0","5.1","18.1.0","18.2.0"],
       "plugin" : {
         "internalName": "DE.BLOGSPOT.NHASKO.SPINNER",
         "type": "item",
